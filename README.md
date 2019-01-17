@@ -2,7 +2,7 @@
 
 Raspbery PI case design using OpenSCAD.
 
-SCAD code design for a Raspbery PI Zero W with camera case.
+SCAD case design for a Raspbery PI Zero W with camera case.
 
 ![Design render](/src/pi-cam-case.jpg)
 
